@@ -302,3 +302,24 @@ Presently şunları sağlar:
 ⁕ En sevdiğin renk şemasını kullan
 
 Presently %100 ücretsiz ve reklamsızdır. Tüm yazıların cihazında ve kontrolünde kalır.
+
+## Simplified Chinese
+当下：感恩日记
+
+使用免费、私人感恩日记「当下」来记录日常感恩点滴
+
+使用本款简洁、私人且永久免费的日记应用练习感恩。
+
+「当下」能够
+⁕ 记录日常的感恩点滴
+⁕ 回顾过往的感恩时光
+⁕ 从名言与提示中汲取动力
+⁕ 定时提醒练习感恩
+⁕ 对感恩记录进行指纹或面部锁定
+⁕ 自动备份感恩记录至 Dropbox
+⁕ 搜索过往记录
+⁕ 与亲友分享您的感恩片刻
+⁕ 导入/导出您的感恩点滴
+⁕ 切换至您最喜欢的配色方案
+
+「当下」完全免费，无广告。您的所有记录均保存在您的设备上，由您掌控。
